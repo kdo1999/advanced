@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 @Slf4j
 public class ContextV1Test {
     @Test
-    void templateMethodV0() {
+    void strategyV0() {
         logic1();
         logic2();
     }
